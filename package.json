@@ -1,6 +1,6 @@
 {
 	"name": "bahamut-articlelist-ex",
-	"version": "0.2",
+	"version": "0.3",
 	"main": "index.js",
 	"license": "MIT",
 	"devDependencies": {

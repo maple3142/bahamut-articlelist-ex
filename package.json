@@ -7,5 +7,8 @@
 		"bili": "^3.0.15",
 		"rollup-plugin-vue": "^3.0.0",
 		"vue-template-compiler": "^2.5.16"
+	},
+	"scripts": {
+		"build": "bili"
 	}
 }

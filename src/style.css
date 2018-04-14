@@ -1,0 +1,10 @@
+.load-more {
+	text-align: center;
+	padding: 1rem;
+}
+.load-more:hover{
+	color: blue;
+}
+.ib{
+	display: inline-block;
+}

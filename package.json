@@ -1,0 +1,11 @@
+{
+	"name": "bahamut-articlelist-ex",
+	"version": "0.2",
+	"main": "index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"bili": "^3.0.15",
+		"rollup-plugin-vue": "^3.0.0",
+		"vue-template-compiler": "^2.5.16"
+	}
+}
